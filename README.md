@@ -1,10 +1,12 @@
 # IntechOpenQML
 This is the Repository containing the IBM Quantum Cloud Jupyter Notebook for the IntechOpen QML Book Chapter.
 
-####This Notebook is premised on IBM's original QGAN work, found here:
+#### This Notebook is premised on IBM's original QGAN work, found here:
+<br>
 <a href="https://learn.qiskit.org/course/machine-learning/quantum-generative-adversarial-networks"> Building Quantum Generative Adversarial Networks with IBM Qiskit </a>
 
-## The experiment section in the book, and the associated Jupyter Notebook update IBM's original and now deprecated QGAN work as follows:
+### The experiment section in the book, and the associated Jupyter Notebook update IBM's original and now deprecated QGAN work as follows:
+<br>
 
 1) Leverage IBM's latest Quantum Sampler Algorithm 
 2) Utilize a backend IBM SamplerAER Noise model
